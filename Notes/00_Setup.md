@@ -13,9 +13,9 @@ peeking at solution code (see below).
 
 ## Setup and Python Installation
 
-Almost all necessary tools and libraries for this course have already been installed on
-your Ubuntu machine, thanks to the excellent work of our DevOps team, "Fusion".
+You need nothing more than a basic Python 3.6 installation or newer. There is no dependency on any particular operating system, editor, IDE, or extra Python-related tooling. There are no third-party dependencies.
 
+That said, most of this course involves learning how to write scripts and small programs that involve data read from files. Therefore, you need to make sure you’re in an environment where you can easily work with files. This includes using an editor to create Python programs and being able to run those programs from the shell/terminal.
 To install the missing python libraries run the following bash commands:
 
 ```bash
@@ -29,7 +29,7 @@ integrated terminal for writing and running Python code.
 ## Forking/Cloning the Course Repository
 
 To prepare your environment for the course, I recommend creating your
-own fork of this course GitLab repo.
+own fork of this GitHub repo.
 
 ## Coursework Layout
 
